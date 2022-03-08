@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"FiguraG","c":"Figura","l":"Figura()","u":"%3Cinit%3E()"},{"p":"FiguraG","c":"Figura","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"FiguraG","c":"Figura","l":"tipoFigura(int, int)","u":"tipoFigura(int,int)"}];updateSearchResults();
