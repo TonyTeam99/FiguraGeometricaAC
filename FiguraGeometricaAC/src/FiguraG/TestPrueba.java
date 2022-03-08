@@ -56,7 +56,7 @@ public class TestPrueba {
 	// Comprobamos que puede ser un rectángulo
 	@Test
 	public void testRectangulo() {
-		String resultado = tipoF.tipoFigura(1, 1);
+		String resultado = tipoF.tipoFigura(1, 2);
 		String esperado = "Rectángulo";
 		assertEquals(resultado, esperado);
 	}
